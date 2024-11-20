@@ -1,0 +1,6 @@
+selected resource name:		Transform Sales Data
+selected resource type:		pipeline
+workspace name:			synapz
+workspace location:		francecentral
+subscription id:		75914440-c765-410d-8702-035e4e5e806e
+time of download (UTC):		Wed, 20 Nov 2024 17:47:59 GMT

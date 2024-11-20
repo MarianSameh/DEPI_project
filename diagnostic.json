@@ -1,0 +1,23 @@
+{
+    "now": "2024-11-20T17:47:59.274Z",
+    "perfNow": 348439.8000000119,
+    "diagnosticCorrelation": "23ef8783-398a-458a-8dc2-a6e7cd4d94da",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "a365",
+        "buildVersion": "24.1112.05",
+        "environmentType": 9,
+        "resourceName": "synapz",
+        "resourceRegion": "francecentral",
+        "resourceGroup": "spark",
+        "subscriptionId": "75914440-c765-410d-8702-035e4e5e806e",
+        "sessionId": "pxkReG9i5yYXkU6Sv6/xGx",
+        "operationId": "DL^XR",
+        "gitType": "live",
+        "loggingKey": "f49c11f5-bc37-498d-a3a7-654878792b1c"
+    },
+    "additionalInfo": {
+        "selectedResource": "Transform Sales Data",
+        "selectedResourceType": "pipeline"
+    }
+}
