@@ -1,0 +1,22 @@
+{
+    "name": "sparkes",
+    "location": "francecentral",
+    "properties": {
+        "autoPause": {
+            "enabled": true,
+            "delayInMinutes": 5
+        },
+        "autoScale": {
+            "enabled": true,
+            "maxNodeCount": 3,
+            "minNodeCount": 3
+        },
+        "nodeCount": 3,
+        "nodeSize": "Small",
+        "nodeSizeFamily": "MemoryOptimized",
+        "sparkVersion": "3.4",
+        "isComputeIsolationEnabled": false,
+        "sessionLevelPackagesEnabled": true,
+        "annotations": []
+    }
+}
