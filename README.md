@@ -4,17 +4,6 @@ This project demonstrates how to connect to an Azure Machine Learning workspace,
 
 ---
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Project Setup](#project-setup)
-- [File Structure](#file-structure)
-- [How to Run](#how-to-run)
-- [Troubleshooting](#troubleshooting)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-
----
-
 ## Prerequisites
 
 Before starting this project, ensure the following:
@@ -23,11 +12,3 @@ Before starting this project, ensure the following:
 3. The **config.json** file for your Azure ML workspace has been downloaded.
 4. Python 3.7+ is installed with the required dependencies.
 
----
-
-## Project Setup
-
-1. Clone the repository to your local system:
-   ```bash
-   git clone https://github.com/your-username/azure-ml-project.git
-   cd azure-ml-project
